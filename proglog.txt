@@ -1,0 +1,1382 @@
+
+04/22, 16:59:08 | Data frame created from row 1 to 11 with the following attributes: all | constraints: None
+04/22, 17:00:29 | Data frame created from row 1 to 11 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:04:41 | Data frame created from row 1 to 11 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:05:17 | Data frame created from row 1 to 11 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:05:44 | Data frame created from row 1 to 11 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:05:44 | Frame exported to newarkstoptimes1to10.csv, with 10 rows
+04/22, 17:09:39 | Data frame created from row 1 to 11 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:09:39 | CSV file newarkstoptimes1to10.csv successfully deleted.
+04/22, 17:20:55 | Data frame created from row 1 to 10 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:21:35 | Data frame created from row 1 to 10 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/22, 17:21:35 | 
+04/22, 17:21:35 | CSV file newarkstoptimes1to10.csv could not be deleted as it does not exist in the current directory | Error
+04/22, 17:53:51 | Data frame created from row 1 to 10 with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: None
+04/28, 09:24:53 | Data frame created from row 0 to 5 with the following attributes: ['Arrival_time', 'Departure_time', 'Shape_dist_traveled'] | constraints: None
+04/28, 09:26:11 | Data frame created from row 0 to 5 with the following attributes: ['Arrival_time', 'Departure_time', 'Shape_dist_traveled'] | constraints: None
+04/28, 09:26:43 | Data frame created from row 0 to 5 with the following attributes: ['Arrival_time', 'Departure_time', 'Shape_dist_traveled'] | constraints: None
+04/28, 09:27:10 | Data frame created from row 0 to 5 with the following attributes: all | constraints: None
+04/28, 09:27:54 | Data frame created from row 0 to 5 with the following attributes: all | constraints: None
+04/28, 10:18:20 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:18:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:18:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:18:31 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 10:18:43 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:19:07 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:19:07 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:19:07 | Data frame created from row 0 to 0 with the following attributes: ['arrival_time', ' departure_time', ' shape_dist_traveled'] | constraints: None
+04/28, 10:19:07 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:20:31 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:20:37 | CSV file newarkstoptimesmall.csv selected.
+04/28, 10:20:37 | 
+04/28, 10:20:37 | File newarkstoptimesmall.csv does not exist. | Error
+04/28, 10:20:37 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:20:44 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:20:45 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:20:45 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:20:53 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:20:53 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:20:53 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 10:20:57 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:21:03 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:21:03 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:21:03 | Data frame created from row 0 to 0 with the following attributes: ['arrival_time'] | constraints: None
+04/28, 10:21:03 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:21:10 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:21:10 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:21:10 | Columns ['arrival_time'] successfully imported from CSV file newarkstoptimessmall.csv.
+04/28, 10:30:06 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:30:11 | CSV file newarkstoptime.csv selected.
+04/28, 10:30:11 | 
+04/28, 10:30:11 | File newarkstoptime.csv does not exist. | Error
+04/28, 10:30:11 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:30:18 | CSV file newarkstoptimesmall.csv selected.
+04/28, 10:30:18 | 
+04/28, 10:30:18 | File newarkstoptimesmall.csv does not exist. | Error
+04/28, 10:30:18 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:30:24 | CSV file newakstoptimessmall.csv selected.
+04/28, 10:30:24 | 
+04/28, 10:30:24 | File newakstoptimessmall.csv does not exist. | Error
+04/28, 10:30:24 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:30:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:30:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:30:31 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:30:37 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:30:37 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:31:14 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:31:22 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:31:22 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:31:30 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:31:34 | CSV file newarkstoptimesmall.csv selected.
+04/28, 10:31:34 | 
+04/28, 10:31:34 | File newarkstoptimesmall.csv does not exist. | Error
+04/28, 10:31:34 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:31:41 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:31:41 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:32:29 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:32:35 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:32:35 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:32:51 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:32:57 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:32:57 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:33:05 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:33:10 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:33:10 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:35:12 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:35:17 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:35:18 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:35:29 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 10:35:34 | CSV file newarkstoptimessmall.csv selected.
+04/28, 10:35:34 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:20:45 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 11:20:51 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:21:49 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 11:21:55 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:21:55 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 11:22:11 | 
+04/28, 11:22:11 | Invalid column(s):  departure_time,  shape_dist_traveled | Error
+04/28, 11:22:23 | 
+04/28, 11:22:23 | Invalid column(s):  departure_time | Error
+04/28, 11:22:28 | Data frame created from row 0 to 0 with the following attributes: ['departure_time'] | constraints: None
+04/28, 11:22:28 | Columns departure_time successfully imported from CSV file newarkstoptimessmall.csv.
+04/28, 11:23:20 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 11:23:24 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:23:44 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['Shape_dist_traveled > 2']
+04/28, 11:23:44 | 
+04/28, 11:23:44 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:24:10 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['Shape_dist_traveled > 2']
+04/28, 11:24:10 | 
+04/28, 11:24:10 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:24:15 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['Shape_dist_traveled < 2']
+04/28, 11:24:15 | 
+04/28, 11:24:15 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:24:17 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['quit']
+04/28, 11:24:17 | 
+04/28, 11:24:17 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:24:20 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['stop']
+04/28, 11:24:20 | 
+04/28, 11:24:20 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:25:37 | CSV files found: ['newarkstoptimes.csv', 'newarkstoptimessmall.csv']
+04/28, 11:25:42 | 
+04/28, 11:25:42 | File newarkstoptimesmall.csv does not exist. | Error
+04/28, 11:25:47 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:25:55 | Data frame created from row 0 to 0 with the following attributes: all | constraints: ['Shape_dist_traveled > 2']
+04/28, 11:25:55 | 
+04/28, 11:25:55 | Invalid constraints entered for file newarkstoptimessmall.csv. | Error
+04/28, 11:41:04 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:41:17 | 
+04/28, 11:41:17 | Invalid file format. Please enter a CSV file. | Error
+04/28, 11:41:48 | 
+04/28, 11:41:48 | Invalid file format. Please enter a CSV file. | Error
+04/28, 11:41:52 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:42:16 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 11:42:26 | 
+04/28, 11:42:26 | Invalid column names:  departure_time. Please select columns from the list above. | Error
+04/28, 11:42:34 | 
+04/28, 11:42:34 | Invalid column names:  shape_dist_traveled. Please select columns from the list above. | Error
+04/28, 11:42:37 | Columns for analysis: arrival_time
+04/28, 11:47:19 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 11:47:28 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 11:52:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:52:50 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 11:52:53 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 11:53:53 | CSV file newarkstoptimessmall.csv selected.
+04/28, 11:53:53 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 11:53:58 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 11:53:58 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 11:54:05 | Constraints: ['shape_dist_traveled > 2']
+04/28, 13:29:15 | 
+04/28, 13:29:15 | Error in start/stop rows: invalid literal for int() with base 10: '' | Error
+04/28, 13:31:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:32:16 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:32:16 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:32:23 | Selected columns: ['arrival_time', 'departure_time', 'stop_id', 'shape_dist_traveled']
+04/28, 13:32:23 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:32:27 | Selected columns: ['arrival_time', 'departure_time', 'stop_id', 'shape_dist_traveled']
+04/28, 13:32:27 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'stop_id', 'shape_dist_traveled']
+04/28, 13:32:37 | Starting & stopping values input. Start: 1, Stop: 6
+04/28, 13:32:37 | Data frame created from row 1 to 6 with the following attributes: ['arrival_time', 'departure_time', 'stop_id', 'shape_dist_traveled'] | constraints: 
+04/28, 13:34:11 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:34:12 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:34:15 | Selected columns: ['arrival_time', 'departure_time']
+04/28, 13:34:15 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:34:18 | Selected columns: ['arrival_time', 'departure_time']
+04/28, 13:34:18 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time']
+04/28, 13:34:22 | Starting & stopping values input. Start: 2, Stop: 3
+04/28, 13:34:22 | Data frame created from row 2 to 3 with the following attributes: ['arrival_time', 'departure_time'] | constraints: []
+04/28, 13:34:39 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:34:39 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:34:41 | Selected columns: ['arrival_time']
+04/28, 13:34:41 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:34:41 | Selected columns: ['departure_time']
+04/28, 13:34:41 | Data imported from newarkstoptimessmall.csv with columns: ['departure_time']
+04/28, 13:34:49 | Starting & stopping values input. Start: 2, Stop: 5
+04/28, 13:34:49 | Data frame created from row 2 to 5 with the following attributes: ['arrival_time'] | constraints: []
+04/28, 13:36:47 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:36:48 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:36:51 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:36:51 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:37:02 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:37:02 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:37:12 | Starting & stopping values input. Start: 1, Stop: 7
+04/28, 13:37:12 | Data frame created from row 1 to 7 with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled'] | constraints: []
+04/28, 13:39:18 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:39:18 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:39:20 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:39:20 | Data frame created from row 0 to 0 with the following attributes: all | constraints: None
+04/28, 13:39:22 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:39:22 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:39:35 | Starting & stopping values input. Start: 2, Stop: 8
+04/28, 13:39:35 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:43:45 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:43:45 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:43:45 | Data frame modified with the following attributes: []
+04/28, 13:43:45 | Data frame modified with the following constraints: None
+04/28, 13:44:22 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:44:22 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:45:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:45:31 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:45:31 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:45:31 | Data frame modified with the following attributes: []
+04/28, 13:45:31 | Data frame modified with the following constraints: None
+04/28, 13:46:14 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:46:14 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:46:14 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:46:14 | Data frame modified with the following attributes: []
+04/28, 13:46:14 | Data frame modified with the following constraints: None
+04/28, 13:46:48 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:46:48 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:46:48 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:46:48 | Data frame modified with the following attributes: []
+04/28, 13:46:48 | Data frame modified with the following constraints: None
+04/28, 13:49:05 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:49:05 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:49:05 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:49:12 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:49:51 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:49:51 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:49:51 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:49:54 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:49:54 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:50:40 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:50:40 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:50:40 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:50:43 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:50:43 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:50:43 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:50:46 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:50:46 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:50:51 | Constraints: ['shape_dist_traveled > 3']
+04/28, 13:50:51 | Data frame modified with the following constraints: ['shape_dist_traveled > 3']
+04/28, 13:55:32 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:55:32 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:55:32 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:55:34 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:55:34 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:55:39 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 13:55:40 | Data frame modified from row 1 to 5
+04/28, 13:56:10 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:56:10 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:56:10 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:56:13 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:56:13 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:56:19 | Starting & stopping values input. Start: 1, Stop: 6
+04/28, 13:56:19 | Data frame modified from row 1 to 6
+04/28, 13:57:02 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:57:03 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:57:03 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:57:08 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:08 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:14 | Starting & stopping values input. Start: 1, Stop: 20
+04/28, 13:57:14 | Data frame modified from row 1 to 20
+04/28, 13:57:14 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:57:17 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:17 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:32 | Constraints: ['shape_dist_traveled > 2']
+04/28, 13:57:32 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 13:57:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 13:57:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:57:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:57:53 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:53 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:57:55 | Starting & stopping values input. Start: 2, Stop: 3
+04/28, 13:57:55 | Data frame modified from row 2 to 3
+04/28, 13:57:55 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 13:58:00 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:58:00 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 13:58:17 | Constraints: ["frame['shape_dist_traveled' > 2]"]
+04/28, 13:58:17 | Data frame modified with the following constraints: ["frame['shape_dist_traveled' > 2]"]
+04/28, 14:00:41 | CSV file newarkstoptimessmall.csv selected.
+04/28, 14:00:41 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:00:41 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:00:43 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:00:43 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:00:46 | Starting & stopping values input. Start: 4, Stop: 10
+04/28, 14:00:46 | Data frame modified from row 4 to 10
+04/28, 14:00:46 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:00:50 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:00:50 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:01:08 | Constraints: ['shape_dist_traveled > 2']
+04/28, 14:01:09 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 14:04:54 | CSV file newarkstoptimessmall.csv selected.
+04/28, 14:04:54 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:04:55 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:04:57 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:04:57 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:04:59 | Starting & stopping values input. Start: 2, Stop: 8
+04/28, 14:05:00 | Data frame modified from row 2 to 8
+04/28, 14:05:00 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:05:07 | Constraints: ['shape_dist_traveled > 2']
+04/28, 14:05:08 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 14:05:08 | 
+04/28, 14:05:08 | Error in selecting columns: "None of [Index(['shape_dist_traveled > 2'], dtype='object')] are in the [columns]" | Error
+04/28, 14:25:04 | CSV file newarkstoptimessmall.csv selected.
+04/28, 14:25:04 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:25:04 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:25:07 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:07 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:14 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 14:25:14 | Data frame modified from row 2 to 30
+04/28, 14:25:14 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:17 | Data frame modified with the following constraints: []
+04/28, 14:25:38 | CSV file newarkstoptimessmall.csv selected.
+04/28, 14:25:38 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:25:38 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:25:40 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:40 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:44 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 14:25:44 | Data frame modified from row 2 to 30
+04/28, 14:25:44 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:25:44 | Data frame modified with the following constraints: []
+04/28, 14:26:16 | CSV file newarkstoptimessmall.csv selected.
+04/28, 14:26:16 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:26:16 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 14:26:18 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:26:18 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:26:21 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 14:26:21 | Data frame modified from row 1 to 5
+04/28, 14:26:21 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 14:26:28 | Constraints: ['shape_dist_traveled < 2']
+04/28, 14:26:28 | Data frame modified with the following constraints: ['shape_dist_traveled < 2']
+04/28, 14:26:28 | 
+04/28, 14:26:28 | Error in selecting columns: "None of [Index(['shape_dist_traveled < 2'], dtype='object')] are in the [columns]" | Error
+04/28, 14:48:03 | Converted time 4:00:00 to a compatible time format.
+04/28, 14:48:51 | Converted time 12:07:00 to a compatible time format.
+04/28, 14:48:51 | Converted time 12:07:00 to a minute format.
+04/28, 14:48:51 | 
+04/28, 14:48:51 | Error in converting time: 'str' object has no attribute 'hour' | Error
+04/28, 14:54:58 | Converted time 12:07:00 to a minute format.
+04/28, 14:55:23 | Converted time 12:07:00 to a minute format.
+04/28, 14:56:04 | Converted time 12:07:00 to a minute format.
+04/28, 14:56:19 | Converted time 12:07:00 to a minute format.
+04/28, 14:56:32 | Converted time 5:06:00 to a minute format.
+04/28, 14:56:38 | Converted time 5:06:00 to a minute format.
+04/28, 14:57:00 | Converted time 5:06:00 to a minute format.
+04/28, 14:57:06 | Converted time 5:06:00 to a hour format.
+04/28, 14:57:12 | Converted time 5:27:00 to a hour format.
+04/28, 14:57:37 | Calculated the time difference between 12:00:00 and 12:00:27.
+04/28, 14:57:37 | Converted time 12:00:00 to a second format.
+04/28, 14:57:37 | Converted time 12:00:27 to a second format.
+04/28, 14:57:37 | 
+04/28, 14:57:37 | Error in calculating time difference: unsupported operand type(s) for -: 'str' and 'str' | Error
+04/28, 14:57:41 | Calculated the time difference between 12:00:00 and 12:00:27.
+04/28, 14:57:41 | Converted time 12:00:00 to a second format.
+04/28, 14:57:41 | Converted time 12:00:27 to a second format.
+04/28, 14:57:41 | 
+04/28, 14:57:41 | Error in calculating time difference: unsupported operand type(s) for -: 'str' and 'str' | Error
+04/28, 14:58:08 | Calculated the time difference between 12:00:00 and 12:00:27.
+04/28, 14:58:08 | Converted time 12:00:00 to a second format.
+04/28, 14:58:08 | Converted time 12:00:27 to a second format.
+04/28, 14:58:15 | Calculated the time difference between 12:20:00 and 12:00:27.
+04/28, 14:58:15 | Converted time 12:20:00 to a second format.
+04/28, 14:58:15 | Converted time 12:00:27 to a second format.
+04/28, 14:58:21 | Calculated the time difference between 12:00:00 and 12:20:27.
+04/28, 14:58:21 | Converted time 12:00:00 to a second format.
+04/28, 14:58:21 | Converted time 12:20:27 to a second format.
+04/28, 14:58:29 | Calculated the time difference between 12:00:00 and 12:50:27.
+04/28, 14:58:29 | Converted time 12:00:00 to a second format.
+04/28, 14:58:29 | Converted time 12:50:27 to a second format.
+04/28, 14:59:59 | Calculated the time difference between 12:00:00 and 12:50:27.
+04/28, 14:59:59 | Converted time 12:00:00 to a minute format.
+04/28, 14:59:59 | Converted time 12:50:27 to a minute format.
+04/28, 15:00:16 | Calculated the time difference between 12:00:00 and 12:50:27.
+04/28, 15:00:16 | Converted time 12:00:00 to a hour format.
+04/28, 15:00:16 | Converted time 12:50:27 to a hour format.
+04/28, 15:08:26 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:08:26 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:08:26 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:08:31 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:08:31 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:08:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:08:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:08:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:08:52 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:08:52 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:08:56 | Starting & stopping values input. Start: 0, Stop: 30
+04/28, 15:08:56 | Data frame modified from row 0 to 30
+04/28, 15:08:56 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:09:06 | Constraints: ['shape_dist_traveled > 2']
+04/28, 15:09:06 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 15:09:06 | 
+04/28, 15:09:06 | Error in selecting columns: "None of [Index(['shape_dist_traveled > 2'], dtype='object')] are in the [columns]" | Error
+04/28, 15:09:29 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:09:29 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:09:29 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:09:31 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:09:31 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:09:34 | Starting & stopping values input. Start: 0, Stop: 30
+04/28, 15:09:34 | Data frame modified from row 0 to 30
+04/28, 15:09:34 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:09:42 | Constraints: ['shape_dist_traveled > 2']
+04/28, 15:09:42 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 15:09:42 | 
+04/28, 15:09:42 | Error in selecting columns: "None of [Index(['shape_dist_traveled > 2'], dtype='object')] are in the [columns]" | Error
+04/28, 15:19:42 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:19:43 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:19:43 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:19:45 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:19:45 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:19:49 | Starting & stopping values input. Start: 1, Stop: 25
+04/28, 15:19:49 | Data frame modified from row 1 to 25
+04/28, 15:19:49 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:19:57 | Constraints: ['shape_dist_traveled > 2']
+04/28, 15:19:57 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 15:19:57 | 
+04/28, 15:19:57 | Error in selecting columns: "None of [Index(['shape_dist_traveled > 2'], dtype='object')] are in the [columns]" | Error
+04/28, 15:20:06 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:20:06 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:20:06 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:20:08 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:20:08 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:20:10 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 15:20:10 | Data frame modified from row 2 to 30
+04/28, 15:20:10 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:20:16 | Constraints: ['shape_dist_traveled > 2']
+04/28, 15:20:16 | Data frame modified with the following constraints: ['shape_dist_traveled > 2']
+04/28, 15:20:16 | 
+04/28, 15:20:16 | Error in selecting columns: "None of [Index(['shape_dist_traveled > 2'], dtype='object')] are in the [columns]" | Error
+04/28, 15:20:19 | Statistics dictionary: {'average': None, 'difference': None}
+04/28, 15:22:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:22:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:22:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:22:54 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:22:54 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:22:59 | Starting & stopping values input. Start: 1, Stop: 36
+04/28, 15:22:59 | Data frame modified from row 1 to 36
+04/28, 15:22:59 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:23:01 | Data frame modified with the following constraints: []
+04/28, 15:23:26 | CSV file newarkstoptimessmall.csv selected.
+04/28, 15:23:26 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:23:26 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 15:23:30 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:23:30 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:23:32 | Starting & stopping values input. Start: 1, Stop: 30
+04/28, 15:23:32 | Data frame modified from row 1 to 30
+04/28, 15:23:32 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 15:23:33 | Data frame modified with the following constraints: []
+04/28, 15:23:35 | Statistics dictionary: {'average': None, 'difference': None}
+04/28, 16:01:08 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:01:08 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:01:08 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:01:10 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:01:10 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:01:13 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:01:13 | Data frame modified from row 2 to 30
+04/28, 16:01:13 | Data imported from newarkstoptimessmall.csv with columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:01:15 | Data frame modified with the following constraints: []
+04/28, 16:02:12 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:02:12 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:02:12 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:03:44 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:03:44 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:03:46 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:03:46 | Data frame modified from row 2 to 30
+04/28, 16:05:28 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:05:28 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:05:28 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:05:30 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:05:30 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:05:32 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:05:32 | Data frame modified from row 2 to 30
+04/28, 16:05:43 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:05:43 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:05:43 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:05:44 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:05:44 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:05:47 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:05:47 | Data frame modified from row 2 to 30
+04/28, 16:05:48 | Statistics dictionary: {'average': None, 'difference': None}
+04/28, 16:06:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:06:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:06:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:06:53 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:06:53 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:06:57 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:06:57 | Data frame modified from row 2 to 30
+04/28, 16:07:04 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:07:04 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:07:04 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:07:06 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:07:06 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:07:08 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:07:08 | Data frame modified from row 2 to 30
+04/28, 16:07:21 | Computing average of column shape_dist_traveled
+04/28, 16:08:53 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:08:53 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:08:53 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:08:56 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:08:56 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:08:57 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:08:57 | Data frame modified from row 2 to 30
+04/28, 16:09:02 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:09:02 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:02 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:04 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:04 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:05 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:09:05 | Data frame modified from row 2 to 30
+04/28, 16:09:14 | Computing average of column shape_dist_traveled
+04/28, 16:09:39 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:09:39 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:39 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:41 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:41 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:44 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:09:44 | Data frame modified from row 2 to 30
+04/28, 16:09:50 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:09:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:50 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:09:52 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:52 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:09:53 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:09:53 | Data frame modified from row 2 to 30
+04/28, 16:09:58 | 
+04/28, 16:09:58 | Could not create an export file quit because of bad file extension. | Error
+04/28, 16:09:59 | 
+04/28, 16:09:59 | Could not create an export file quit because of bad file extension. | Error
+04/28, 16:10:11 | Export file njtransit1.csv selected.
+04/28, 16:10:23 | Computing average of column shape_dist_traveled
+04/28, 16:47:37 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:47:37 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:47:37 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:47:40 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:47:40 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:47:44 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:47:44 | Data frame modified from row 2 to 30
+04/28, 16:47:53 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:47:53 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:47:53 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:47:55 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:47:55 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:47:58 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 16:47:58 | Data frame modified from row 2 to 30
+04/28, 16:52:13 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:52:13 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:52:13 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:52:16 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:52:16 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:52:21 | Starting & stopping values input. Start: 0, Stop: 30
+04/28, 16:52:21 | Data frame modified from row 0 to 30
+04/28, 16:52:28 | Export file njtransit1.csv selected.
+04/28, 16:52:37 | CSV file newarkstoptimessmall.csv selected.
+04/28, 16:52:37 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:52:37 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 16:52:40 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:52:40 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 16:52:45 | Starting & stopping values input. Start: 0, Stop: 37
+04/28, 16:52:45 | Data frame modified from row 0 to 37
+04/28, 17:02:54 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:02:54 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:02:54 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:02:57 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:02:57 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:03:49 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:03:49 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:03:49 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:03:51 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:03:51 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:03:57 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 17:03:57 | Data frame modified from row 1 to 5
+04/28, 17:04:05 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:04:05 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:04:05 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:04:07 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:04:07 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:04:10 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 17:04:10 | Data frame modified from row 1 to 5
+04/28, 17:04:11 | Converted time 5:56:14 to a datetime format.
+04/28, 17:04:11 | Converted time 5:56:14 to a minute format.
+04/28, 17:04:11 | Calculated the quotient between 14 and 60.
+04/28, 17:04:11 | Converted time 5:56:46 to a datetime format.
+04/28, 17:04:11 | Converted time 5:56:46 to a minute format.
+04/28, 17:04:11 | Calculated the quotient between 46 and 60.
+04/28, 17:04:11 | Converted time 5:57:13 to a datetime format.
+04/28, 17:04:11 | Converted time 5:57:13 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 13 and 60.
+04/28, 17:04:12 | Converted time 5:58:06 to a datetime format.
+04/28, 17:04:12 | Converted time 5:58:06 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 06 and 60.
+04/28, 17:04:12 | Converted time 5:59:42 to a datetime format.
+04/28, 17:04:12 | Converted time 5:59:42 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 42 and 60.
+04/28, 17:04:12 | Converted time 5:56:14 to a datetime format.
+04/28, 17:04:12 | Converted time 5:56:14 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 14 and 60.
+04/28, 17:04:12 | Converted time 5:56:46 to a datetime format.
+04/28, 17:04:12 | Converted time 5:56:46 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 46 and 60.
+04/28, 17:04:12 | Converted time 5:57:13 to a datetime format.
+04/28, 17:04:12 | Converted time 5:57:13 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 13 and 60.
+04/28, 17:04:12 | Converted time 5:58:06 to a datetime format.
+04/28, 17:04:12 | Converted time 5:58:06 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 06 and 60.
+04/28, 17:04:12 | Converted time 5:59:42 to a datetime format.
+04/28, 17:04:12 | Converted time 5:59:42 to a minute format.
+04/28, 17:04:12 | Calculated the quotient between 42 and 60.
+04/28, 17:04:12 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:04:12 | Calculated the time difference between 356.23333333333335 and 356.23333333333335.
+04/28, 17:04:12 | Converted time 356.23333333333335 to a datetime format.
+04/28, 17:04:12 | 
+04/28, 17:04:12 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:06:06 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:06:06 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:06:06 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:06:09 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:06:09 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:06:16 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 17:06:17 | Data frame modified from row 1 to 5
+04/28, 17:06:29 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:06:29 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:06:29 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:06:31 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:06:31 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:06:34 | Starting & stopping values input. Start: 1, Stop: 5
+04/28, 17:06:34 | Data frame modified from row 1 to 5
+04/28, 17:06:35 | Converted time 5:56:14 to a datetime format.
+04/28, 17:06:35 | Converted time 5:56:14 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 14 and 60.
+04/28, 17:06:35 | Converted time 5:56:46 to a datetime format.
+04/28, 17:06:35 | Converted time 5:56:46 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 46 and 60.
+04/28, 17:06:35 | Converted time 5:57:13 to a datetime format.
+04/28, 17:06:35 | Converted time 5:57:13 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 13 and 60.
+04/28, 17:06:35 | Converted time 5:58:06 to a datetime format.
+04/28, 17:06:35 | Converted time 5:58:06 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 06 and 60.
+04/28, 17:06:35 | Converted time 5:59:42 to a datetime format.
+04/28, 17:06:35 | Converted time 5:59:42 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 42 and 60.
+04/28, 17:06:35 | Converted time 5:56:14 to a datetime format.
+04/28, 17:06:35 | Converted time 5:56:14 to a minute format.
+04/28, 17:06:35 | Calculated the quotient between 14 and 60.
+04/28, 17:06:36 | Converted time 5:56:46 to a datetime format.
+04/28, 17:06:36 | Converted time 5:56:46 to a minute format.
+04/28, 17:06:36 | Calculated the quotient between 46 and 60.
+04/28, 17:06:36 | Converted time 5:57:13 to a datetime format.
+04/28, 17:06:36 | Converted time 5:57:13 to a minute format.
+04/28, 17:06:36 | Calculated the quotient between 13 and 60.
+04/28, 17:06:36 | Converted time 5:58:06 to a datetime format.
+04/28, 17:06:36 | Converted time 5:58:06 to a minute format.
+04/28, 17:06:36 | Calculated the quotient between 06 and 60.
+04/28, 17:06:36 | Converted time 5:59:42 to a datetime format.
+04/28, 17:06:36 | Converted time 5:59:42 to a minute format.
+04/28, 17:06:36 | Calculated the quotient between 42 and 60.
+04/28, 17:06:36 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:06:36 | Calculated the time difference between 356.23333333333335 and 356.23333333333335.
+04/28, 17:06:36 | Converted time 356.23333333333335 to a datetime format.
+04/28, 17:06:36 | 
+04/28, 17:06:36 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:07:31 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:07:31 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:07:31 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:07:33 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:07:33 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:07:36 | Starting & stopping values input. Start: 2, Stop: 20
+04/28, 17:07:36 | Data frame modified from row 2 to 20
+04/28, 17:07:44 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:07:44 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:07:44 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:07:46 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:07:46 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:07:47 | Starting & stopping values input. Start: 2, Stop: 20
+04/28, 17:07:47 | Data frame modified from row 2 to 20
+04/28, 17:07:49 | Converted time 5:56:46 to a datetime format.
+04/28, 17:07:49 | Converted time 5:56:46 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 46 and 60.
+04/28, 17:07:49 | Converted time 5:57:13 to a datetime format.
+04/28, 17:07:49 | Converted time 5:57:13 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 13 and 60.
+04/28, 17:07:49 | Converted time 5:58:06 to a datetime format.
+04/28, 17:07:49 | Converted time 5:58:06 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 06 and 60.
+04/28, 17:07:49 | Converted time 5:59:42 to a datetime format.
+04/28, 17:07:49 | Converted time 5:59:42 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 42 and 60.
+04/28, 17:07:49 | Converted time 6:00:14 to a datetime format.
+04/28, 17:07:49 | Converted time 6:00:14 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 14 and 60.
+04/28, 17:07:49 | Converted time 6:02:00 to a datetime format.
+04/28, 17:07:49 | Converted time 6:02:00 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 00 and 60.
+04/28, 17:07:49 | Converted time 6:03:00 to a datetime format.
+04/28, 17:07:49 | Converted time 6:03:00 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 00 and 60.
+04/28, 17:07:49 | Converted time 6:04:09 to a datetime format.
+04/28, 17:07:49 | Converted time 6:04:09 to a minute format.
+04/28, 17:07:49 | Calculated the quotient between 09 and 60.
+04/28, 17:07:50 | Converted time 6:06:00 to a datetime format.
+04/28, 17:07:50 | Converted time 6:06:00 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 00 and 60.
+04/28, 17:07:50 | Converted time 6:06:51 to a datetime format.
+04/28, 17:07:50 | Converted time 6:06:51 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 51 and 60.
+04/28, 17:07:50 | Converted time 6:09:29 to a datetime format.
+04/28, 17:07:50 | Converted time 6:09:29 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 29 and 60.
+04/28, 17:07:50 | Converted time 6:10:30 to a datetime format.
+04/28, 17:07:50 | Converted time 6:10:30 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 30 and 60.
+04/28, 17:07:50 | Converted time 6:11:11 to a datetime format.
+04/28, 17:07:50 | Converted time 6:11:11 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 11 and 60.
+04/28, 17:07:50 | Converted time 6:11:56 to a datetime format.
+04/28, 17:07:50 | Converted time 6:11:56 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 56 and 60.
+04/28, 17:07:50 | Converted time 6:13:21 to a datetime format.
+04/28, 17:07:50 | Converted time 6:13:21 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 21 and 60.
+04/28, 17:07:50 | Converted time 6:15:00 to a datetime format.
+04/28, 17:07:50 | Converted time 6:15:00 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 00 and 60.
+04/28, 17:07:50 | Converted time 6:16:28 to a datetime format.
+04/28, 17:07:50 | Converted time 6:16:28 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 28 and 60.
+04/28, 17:07:50 | Converted time 6:18:07 to a datetime format.
+04/28, 17:07:50 | Converted time 6:18:07 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 07 and 60.
+04/28, 17:07:50 | Converted time 6:18:58 to a datetime format.
+04/28, 17:07:50 | Converted time 6:18:58 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 58 and 60.
+04/28, 17:07:50 | Converted time 5:56:46 to a datetime format.
+04/28, 17:07:50 | Converted time 5:56:46 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 46 and 60.
+04/28, 17:07:50 | Converted time 5:57:13 to a datetime format.
+04/28, 17:07:50 | Converted time 5:57:13 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 13 and 60.
+04/28, 17:07:50 | Converted time 5:58:06 to a datetime format.
+04/28, 17:07:50 | Converted time 5:58:06 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 06 and 60.
+04/28, 17:07:50 | Converted time 5:59:42 to a datetime format.
+04/28, 17:07:50 | Converted time 5:59:42 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 42 and 60.
+04/28, 17:07:50 | Converted time 6:00:14 to a datetime format.
+04/28, 17:07:50 | Converted time 6:00:14 to a minute format.
+04/28, 17:07:50 | Calculated the quotient between 14 and 60.
+04/28, 17:07:50 | Converted time 6:02:00 to a datetime format.
+04/28, 17:07:50 | Converted time 6:02:00 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 00 and 60.
+04/28, 17:07:51 | Converted time 6:03:00 to a datetime format.
+04/28, 17:07:51 | Converted time 6:03:00 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 00 and 60.
+04/28, 17:07:51 | Converted time 6:04:09 to a datetime format.
+04/28, 17:07:51 | Converted time 6:04:09 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 09 and 60.
+04/28, 17:07:51 | Converted time 6:06:00 to a datetime format.
+04/28, 17:07:51 | Converted time 6:06:00 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 00 and 60.
+04/28, 17:07:51 | Converted time 6:06:51 to a datetime format.
+04/28, 17:07:51 | Converted time 6:06:51 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 51 and 60.
+04/28, 17:07:51 | Converted time 6:09:29 to a datetime format.
+04/28, 17:07:51 | Converted time 6:09:29 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 29 and 60.
+04/28, 17:07:51 | Converted time 6:10:30 to a datetime format.
+04/28, 17:07:51 | Converted time 6:10:30 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 30 and 60.
+04/28, 17:07:51 | Converted time 6:11:11 to a datetime format.
+04/28, 17:07:51 | Converted time 6:11:11 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 11 and 60.
+04/28, 17:07:51 | Converted time 6:11:56 to a datetime format.
+04/28, 17:07:51 | Converted time 6:11:56 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 56 and 60.
+04/28, 17:07:51 | Converted time 6:13:21 to a datetime format.
+04/28, 17:07:51 | Converted time 6:13:21 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 21 and 60.
+04/28, 17:07:51 | Converted time 6:15:00 to a datetime format.
+04/28, 17:07:51 | Converted time 6:15:00 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 00 and 60.
+04/28, 17:07:51 | Converted time 6:16:28 to a datetime format.
+04/28, 17:07:51 | Converted time 6:16:28 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 28 and 60.
+04/28, 17:07:51 | Converted time 6:18:07 to a datetime format.
+04/28, 17:07:51 | Converted time 6:18:07 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 07 and 60.
+04/28, 17:07:51 | Converted time 6:18:58 to a datetime format.
+04/28, 17:07:51 | Converted time 6:18:58 to a minute format.
+04/28, 17:07:51 | Calculated the quotient between 58 and 60.
+04/28, 17:07:51 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:07:51 | Calculated the time difference between 356.76666666666665 and 356.76666666666665.
+04/28, 17:07:51 | Converted time 356.76666666666665 to a datetime format.
+04/28, 17:07:51 | 
+04/28, 17:07:51 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:08:47 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:08:47 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:08:47 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:08:49 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:08:49 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:08:51 | Starting & stopping values input. Start: 2, Stop: 30
+04/28, 17:08:51 | Data frame modified from row 2 to 30
+04/28, 17:08:56 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:08:56 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:08:56 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:08:58 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:08:58 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:09:00 | Starting & stopping values input. Start: 0, Stop: 10
+04/28, 17:09:00 | Data frame modified from row 0 to 10
+04/28, 17:09:01 | Converted time 5:55:00 to a datetime format.
+04/28, 17:09:01 | Converted time 5:55:00 to a minute format.
+04/28, 17:09:01 | Calculated the quotient between 00 and 60.
+04/28, 17:09:01 | Converted time 5:56:14 to a datetime format.
+04/28, 17:09:01 | Converted time 5:56:14 to a minute format.
+04/28, 17:09:01 | Calculated the quotient between 14 and 60.
+04/28, 17:09:01 | Converted time 5:56:46 to a datetime format.
+04/28, 17:09:01 | Converted time 5:56:46 to a minute format.
+04/28, 17:09:01 | Calculated the quotient between 46 and 60.
+04/28, 17:09:02 | Converted time 5:57:13 to a datetime format.
+04/28, 17:09:02 | Converted time 5:57:13 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 13 and 60.
+04/28, 17:09:02 | Converted time 5:58:06 to a datetime format.
+04/28, 17:09:02 | Converted time 5:58:06 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 06 and 60.
+04/28, 17:09:02 | Converted time 5:59:42 to a datetime format.
+04/28, 17:09:02 | Converted time 5:59:42 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 42 and 60.
+04/28, 17:09:02 | Converted time 6:00:14 to a datetime format.
+04/28, 17:09:02 | Converted time 6:00:14 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 14 and 60.
+04/28, 17:09:02 | Converted time 6:02:00 to a datetime format.
+04/28, 17:09:02 | Converted time 6:02:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:02 | Converted time 6:03:00 to a datetime format.
+04/28, 17:09:02 | Converted time 6:03:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:02 | Converted time 6:04:09 to a datetime format.
+04/28, 17:09:02 | Converted time 6:04:09 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 09 and 60.
+04/28, 17:09:02 | Converted time 6:06:00 to a datetime format.
+04/28, 17:09:02 | Converted time 6:06:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:02 | Converted time 5:55:00 to a datetime format.
+04/28, 17:09:02 | Converted time 5:55:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:02 | Converted time 5:56:14 to a datetime format.
+04/28, 17:09:02 | Converted time 5:56:14 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 14 and 60.
+04/28, 17:09:02 | Converted time 5:56:46 to a datetime format.
+04/28, 17:09:02 | Converted time 5:56:46 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 46 and 60.
+04/28, 17:09:02 | Converted time 5:57:13 to a datetime format.
+04/28, 17:09:02 | Converted time 5:57:13 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 13 and 60.
+04/28, 17:09:02 | Converted time 5:58:06 to a datetime format.
+04/28, 17:09:02 | Converted time 5:58:06 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 06 and 60.
+04/28, 17:09:02 | Converted time 5:59:42 to a datetime format.
+04/28, 17:09:02 | Converted time 5:59:42 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 42 and 60.
+04/28, 17:09:02 | Converted time 6:00:14 to a datetime format.
+04/28, 17:09:02 | Converted time 6:00:14 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 14 and 60.
+04/28, 17:09:02 | Converted time 6:02:00 to a datetime format.
+04/28, 17:09:02 | Converted time 6:02:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:02 | Converted time 6:03:00 to a datetime format.
+04/28, 17:09:02 | Converted time 6:03:00 to a minute format.
+04/28, 17:09:02 | Calculated the quotient between 00 and 60.
+04/28, 17:09:03 | Converted time 6:04:09 to a datetime format.
+04/28, 17:09:03 | Converted time 6:04:09 to a minute format.
+04/28, 17:09:03 | Calculated the quotient between 09 and 60.
+04/28, 17:09:03 | Converted time 6:06:00 to a datetime format.
+04/28, 17:09:03 | Converted time 6:06:00 to a minute format.
+04/28, 17:09:03 | Calculated the quotient between 00 and 60.
+04/28, 17:09:03 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:09:03 | Calculated the time difference between 355.0 and 355.0.
+04/28, 17:09:03 | Converted time 355.0 to a datetime format.
+04/28, 17:09:03 | 
+04/28, 17:09:03 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:09:57 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:09:57 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:09:57 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:10:02 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:10:02 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:10:04 | Starting & stopping values input. Start: 2, Stop: 20
+04/28, 17:10:04 | Data frame modified from row 2 to 20
+04/28, 17:10:09 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:10:09 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:10:09 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:10:11 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:10:11 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:10:14 | Starting & stopping values input. Start: 2, Stop: 5
+04/28, 17:10:14 | Data frame modified from row 2 to 5
+04/28, 17:10:16 | Converted time 5:56:46 to a datetime format.
+04/28, 17:10:16 | Converted time 5:56:46 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 46 and 60.
+04/28, 17:10:16 | Converted time 5:57:13 to a datetime format.
+04/28, 17:10:16 | Converted time 5:57:13 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 13 and 60.
+04/28, 17:10:16 | Converted time 5:58:06 to a datetime format.
+04/28, 17:10:16 | Converted time 5:58:06 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 06 and 60.
+04/28, 17:10:16 | Converted time 5:59:42 to a datetime format.
+04/28, 17:10:16 | Converted time 5:59:42 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 42 and 60.
+04/28, 17:10:16 | Converted time 5:56:46 to a datetime format.
+04/28, 17:10:16 | Converted time 5:56:46 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 46 and 60.
+04/28, 17:10:16 | Converted time 5:57:13 to a datetime format.
+04/28, 17:10:16 | Converted time 5:57:13 to a minute format.
+04/28, 17:10:16 | Calculated the quotient between 13 and 60.
+04/28, 17:10:17 | Converted time 5:58:06 to a datetime format.
+04/28, 17:10:17 | Converted time 5:58:06 to a minute format.
+04/28, 17:10:17 | Calculated the quotient between 06 and 60.
+04/28, 17:10:17 | Converted time 5:59:42 to a datetime format.
+04/28, 17:10:17 | Converted time 5:59:42 to a minute format.
+04/28, 17:10:17 | Calculated the quotient between 42 and 60.
+04/28, 17:10:17 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:10:18 | Calculated the time difference between 356.76666666666665 and 356.76666666666665.
+04/28, 17:10:18 | Converted time 356.76666666666665 to a datetime format.
+04/28, 17:10:18 | 
+04/28, 17:10:18 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:10:18 | Calculated the time difference between 357.21666666666664 and 357.21666666666664.
+04/28, 17:10:18 | Converted time 357.21666666666664 to a datetime format.
+04/28, 17:10:18 | 
+04/28, 17:10:18 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:10:18 | Calculated the time difference between 358.1 and 358.1.
+04/28, 17:10:19 | Converted time 358.1 to a datetime format.
+04/28, 17:10:19 | 
+04/28, 17:10:19 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:10:19 | Calculated the time difference between 359.7 and 359.7.
+04/28, 17:10:19 | Converted time 359.7 to a datetime format.
+04/28, 17:10:19 | 
+04/28, 17:10:19 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:10:19 | Calculated the efficiency by adding an efficiency column.
+04/28, 17:10:20 | Frame exported to newdata.csv, with 4 rows
+04/28, 17:11:30 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:11:30 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:11:30 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:11:31 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:11:31 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:11:35 | Starting & stopping values input. Start: 2, Stop: 5
+04/28, 17:11:35 | Data frame modified from row 2 to 5
+04/28, 17:11:44 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:11:45 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:11:45 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:11:48 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:11:48 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:11:51 | Starting & stopping values input. Start: 2, Stop: 5
+04/28, 17:11:51 | Data frame modified from row 2 to 5
+04/28, 17:11:52 | Converted time 5:56:46 to a datetime format.
+04/28, 17:11:52 | Converted time 5:56:46 to a minute format.
+04/28, 17:11:52 | Calculated the quotient between 46 and 60.
+04/28, 17:11:52 | Converted time 5:57:13 to a datetime format.
+04/28, 17:11:52 | Converted time 5:57:13 to a minute format.
+04/28, 17:11:52 | Calculated the quotient between 13 and 60.
+04/28, 17:11:52 | Converted time 5:58:06 to a datetime format.
+04/28, 17:11:52 | Converted time 5:58:06 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 06 and 60.
+04/28, 17:11:53 | Converted time 5:59:42 to a datetime format.
+04/28, 17:11:53 | Converted time 5:59:42 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 42 and 60.
+04/28, 17:11:53 | Converted time 5:56:46 to a datetime format.
+04/28, 17:11:53 | Converted time 5:56:46 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 46 and 60.
+04/28, 17:11:53 | Converted time 5:57:13 to a datetime format.
+04/28, 17:11:53 | Converted time 5:57:13 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 13 and 60.
+04/28, 17:11:53 | Converted time 5:58:06 to a datetime format.
+04/28, 17:11:53 | Converted time 5:58:06 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 06 and 60.
+04/28, 17:11:53 | Converted time 5:59:42 to a datetime format.
+04/28, 17:11:53 | Converted time 5:59:42 to a minute format.
+04/28, 17:11:53 | Calculated the quotient between 42 and 60.
+04/28, 17:11:53 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:11:53 | Calculated the time difference between 356.76666666666665 and 356.76666666666665.
+04/28, 17:11:53 | Converted time 356.76666666666665 to a datetime format.
+04/28, 17:11:53 | 
+04/28, 17:11:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:11:53 | Calculated the time difference between 357.21666666666664 and 357.21666666666664.
+04/28, 17:11:53 | Converted time 357.21666666666664 to a datetime format.
+04/28, 17:11:53 | 
+04/28, 17:11:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:11:53 | Calculated the time difference between 358.1 and 358.1.
+04/28, 17:11:53 | Converted time 358.1 to a datetime format.
+04/28, 17:11:53 | 
+04/28, 17:11:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:11:53 | Calculated the time difference between 359.7 and 359.7.
+04/28, 17:11:53 | Converted time 359.7 to a datetime format.
+04/28, 17:11:53 | 
+04/28, 17:11:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:11:53 | Calculated the efficiency by adding an efficiency column.
+04/28, 17:11:53 | Frame exported to newdata.csv, with 4 rows
+04/28, 17:25:27 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:25:27 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:25:27 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:25:29 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:25:29 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:25:32 | Starting & stopping values input. Start: 2, Stop: 3
+04/28, 17:25:32 | Data frame modified from row 2 to 3
+04/28, 17:25:34 | Converted time 5:56:46 to a datetime format.
+04/28, 17:25:34 | Converted time 5:56:46 to a minute format.
+04/28, 17:25:34 | Calculated the quotient between 46 and 60.
+04/28, 17:25:34 | Converted time 5:57:13 to a datetime format.
+04/28, 17:25:34 | Converted time 5:57:13 to a minute format.
+04/28, 17:25:34 | Calculated the quotient between 13 and 60.
+04/28, 17:25:34 | Converted time 5:56:46 to a datetime format.
+04/28, 17:25:34 | Converted time 5:56:46 to a minute format.
+04/28, 17:25:34 | Calculated the quotient between 46 and 60.
+04/28, 17:25:34 | Converted time 5:57:13 to a datetime format.
+04/28, 17:25:34 | Converted time 5:57:13 to a minute format.
+04/28, 17:25:34 | Calculated the quotient between 13 and 60.
+04/28, 17:25:34 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:25:34 | Calculated the time difference between 356.76666666666665 and 356.76666666666665.
+04/28, 17:25:34 | Converted time 356.76666666666665 to a datetime format.
+04/28, 17:25:34 | 
+04/28, 17:25:34 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:34 | Calculated the time difference between 357.21666666666664 and 357.21666666666664.
+04/28, 17:25:34 | Converted time 357.21666666666664 to a datetime format.
+04/28, 17:25:34 | 
+04/28, 17:25:34 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:34 | Calculated the efficiency by adding an efficiency column.
+04/28, 17:25:34 | Frame exported to newdata.csv, with 2 rows
+04/28, 17:25:41 | CSV file newarkstoptimessmall.csv selected.
+04/28, 17:25:41 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:25:41 | Data frame created with the following attributes: ['trip_id', 'arrival_time', 'departure_time', 'stop_id', 'stop_sequence', 'pickup_type', 'drop_off_type', 'shape_dist_traveled']
+04/28, 17:25:43 | Selected columns: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:25:43 | Data frame modified with the following attributes: ['arrival_time', 'departure_time', 'shape_dist_traveled']
+04/28, 17:25:47 | Starting & stopping values input. Start: 0, Stop: 35
+04/28, 17:25:47 | Data frame modified from row 0 to 35
+04/28, 17:25:49 | Converted time 5:55:00 to a datetime format.
+04/28, 17:25:49 | Converted time 5:55:00 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 00 and 60.
+04/28, 17:25:49 | Converted time 5:56:14 to a datetime format.
+04/28, 17:25:49 | Converted time 5:56:14 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 14 and 60.
+04/28, 17:25:49 | Converted time 5:56:46 to a datetime format.
+04/28, 17:25:49 | Converted time 5:56:46 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 46 and 60.
+04/28, 17:25:49 | Converted time 5:57:13 to a datetime format.
+04/28, 17:25:49 | Converted time 5:57:13 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 13 and 60.
+04/28, 17:25:49 | Converted time 5:58:06 to a datetime format.
+04/28, 17:25:49 | Converted time 5:58:06 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 06 and 60.
+04/28, 17:25:49 | Converted time 5:59:42 to a datetime format.
+04/28, 17:25:49 | Converted time 5:59:42 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 42 and 60.
+04/28, 17:25:49 | Converted time 6:00:14 to a datetime format.
+04/28, 17:25:49 | Converted time 6:00:14 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 14 and 60.
+04/28, 17:25:49 | Converted time 6:02:00 to a datetime format.
+04/28, 17:25:49 | Converted time 6:02:00 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 00 and 60.
+04/28, 17:25:49 | Converted time 6:03:00 to a datetime format.
+04/28, 17:25:49 | Converted time 6:03:00 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 00 and 60.
+04/28, 17:25:49 | Converted time 6:04:09 to a datetime format.
+04/28, 17:25:49 | Converted time 6:04:09 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 09 and 60.
+04/28, 17:25:49 | Converted time 6:06:00 to a datetime format.
+04/28, 17:25:49 | Converted time 6:06:00 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 00 and 60.
+04/28, 17:25:49 | Converted time 6:06:51 to a datetime format.
+04/28, 17:25:49 | Converted time 6:06:51 to a minute format.
+04/28, 17:25:49 | Calculated the quotient between 51 and 60.
+04/28, 17:25:49 | Converted time 6:09:29 to a datetime format.
+04/28, 17:25:49 | Converted time 6:09:29 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 29 and 60.
+04/28, 17:25:50 | Converted time 6:10:30 to a datetime format.
+04/28, 17:25:50 | Converted time 6:10:30 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 30 and 60.
+04/28, 17:25:50 | Converted time 6:11:11 to a datetime format.
+04/28, 17:25:50 | Converted time 6:11:11 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 11 and 60.
+04/28, 17:25:50 | Converted time 6:11:56 to a datetime format.
+04/28, 17:25:50 | Converted time 6:11:56 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 56 and 60.
+04/28, 17:25:50 | Converted time 6:13:21 to a datetime format.
+04/28, 17:25:50 | Converted time 6:13:21 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 21 and 60.
+04/28, 17:25:50 | Converted time 6:15:00 to a datetime format.
+04/28, 17:25:50 | Converted time 6:15:00 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 00 and 60.
+04/28, 17:25:50 | Converted time 6:16:28 to a datetime format.
+04/28, 17:25:50 | Converted time 6:16:28 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 28 and 60.
+04/28, 17:25:50 | Converted time 6:18:07 to a datetime format.
+04/28, 17:25:50 | Converted time 6:18:07 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 07 and 60.
+04/28, 17:25:50 | Converted time 6:18:58 to a datetime format.
+04/28, 17:25:50 | Converted time 6:18:58 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 58 and 60.
+04/28, 17:25:50 | Converted time 6:19:35 to a datetime format.
+04/28, 17:25:50 | Converted time 6:19:35 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 35 and 60.
+04/28, 17:25:50 | Converted time 6:20:33 to a datetime format.
+04/28, 17:25:50 | Converted time 6:20:33 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 33 and 60.
+04/28, 17:25:50 | Converted time 6:21:09 to a datetime format.
+04/28, 17:25:50 | Converted time 6:21:09 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 09 and 60.
+04/28, 17:25:50 | Converted time 6:21:56 to a datetime format.
+04/28, 17:25:50 | Converted time 6:21:56 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 56 and 60.
+04/28, 17:25:50 | Converted time 6:22:21 to a datetime format.
+04/28, 17:25:50 | Converted time 6:22:21 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 21 and 60.
+04/28, 17:25:50 | Converted time 6:23:12 to a datetime format.
+04/28, 17:25:50 | Converted time 6:23:12 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 12 and 60.
+04/28, 17:25:50 | Converted time 6:23:44 to a datetime format.
+04/28, 17:25:50 | Converted time 6:23:44 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 44 and 60.
+04/28, 17:25:50 | Converted time 6:24:23 to a datetime format.
+04/28, 17:25:50 | Converted time 6:24:23 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 23 and 60.
+04/28, 17:25:50 | Converted time 6:25:22 to a datetime format.
+04/28, 17:25:50 | Converted time 6:25:22 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 22 and 60.
+04/28, 17:25:50 | Converted time 6:26:00 to a datetime format.
+04/28, 17:25:50 | Converted time 6:26:00 to a minute format.
+04/28, 17:25:50 | Calculated the quotient between 00 and 60.
+04/28, 17:25:51 | Converted time 6:27:13 to a datetime format.
+04/28, 17:25:51 | Converted time 6:27:13 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 13 and 60.
+04/28, 17:25:51 | Converted time 6:27:45 to a datetime format.
+04/28, 17:25:51 | Converted time 6:27:45 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 45 and 60.
+04/28, 17:25:51 | Converted time 6:28:47 to a datetime format.
+04/28, 17:25:51 | Converted time 6:28:47 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 47 and 60.
+04/28, 17:25:51 | Converted time 6:29:40 to a datetime format.
+04/28, 17:25:51 | Converted time 6:29:40 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 40 and 60.
+04/28, 17:25:51 | Converted time 6:31:00 to a datetime format.
+04/28, 17:25:51 | Converted time 6:31:00 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 00 and 60.
+04/28, 17:25:51 | Converted time 5:55:00 to a datetime format.
+04/28, 17:25:51 | Converted time 5:55:00 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 00 and 60.
+04/28, 17:25:51 | Converted time 5:56:14 to a datetime format.
+04/28, 17:25:51 | Converted time 5:56:14 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 14 and 60.
+04/28, 17:25:51 | Converted time 5:56:46 to a datetime format.
+04/28, 17:25:51 | Converted time 5:56:46 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 46 and 60.
+04/28, 17:25:51 | Converted time 5:57:13 to a datetime format.
+04/28, 17:25:51 | Converted time 5:57:13 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 13 and 60.
+04/28, 17:25:51 | Converted time 5:58:06 to a datetime format.
+04/28, 17:25:51 | Converted time 5:58:06 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 06 and 60.
+04/28, 17:25:51 | Converted time 5:59:42 to a datetime format.
+04/28, 17:25:51 | Converted time 5:59:42 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 42 and 60.
+04/28, 17:25:51 | Converted time 6:00:14 to a datetime format.
+04/28, 17:25:51 | Converted time 6:00:14 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 14 and 60.
+04/28, 17:25:51 | Converted time 6:02:00 to a datetime format.
+04/28, 17:25:51 | Converted time 6:02:00 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 00 and 60.
+04/28, 17:25:51 | Converted time 6:03:00 to a datetime format.
+04/28, 17:25:51 | Converted time 6:03:00 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 00 and 60.
+04/28, 17:25:51 | Converted time 6:04:09 to a datetime format.
+04/28, 17:25:51 | Converted time 6:04:09 to a minute format.
+04/28, 17:25:51 | Calculated the quotient between 09 and 60.
+04/28, 17:25:51 | Converted time 6:06:00 to a datetime format.
+04/28, 17:25:51 | Converted time 6:06:00 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 00 and 60.
+04/28, 17:25:52 | Converted time 6:06:51 to a datetime format.
+04/28, 17:25:52 | Converted time 6:06:51 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 51 and 60.
+04/28, 17:25:52 | Converted time 6:09:29 to a datetime format.
+04/28, 17:25:52 | Converted time 6:09:29 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 29 and 60.
+04/28, 17:25:52 | Converted time 6:10:30 to a datetime format.
+04/28, 17:25:52 | Converted time 6:10:30 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 30 and 60.
+04/28, 17:25:52 | Converted time 6:11:11 to a datetime format.
+04/28, 17:25:52 | Converted time 6:11:11 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 11 and 60.
+04/28, 17:25:52 | Converted time 6:11:56 to a datetime format.
+04/28, 17:25:52 | Converted time 6:11:56 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 56 and 60.
+04/28, 17:25:52 | Converted time 6:13:21 to a datetime format.
+04/28, 17:25:52 | Converted time 6:13:21 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 21 and 60.
+04/28, 17:25:52 | Converted time 6:15:00 to a datetime format.
+04/28, 17:25:52 | Converted time 6:15:00 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 00 and 60.
+04/28, 17:25:52 | Converted time 6:16:28 to a datetime format.
+04/28, 17:25:52 | Converted time 6:16:28 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 28 and 60.
+04/28, 17:25:52 | Converted time 6:18:07 to a datetime format.
+04/28, 17:25:52 | Converted time 6:18:07 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 07 and 60.
+04/28, 17:25:52 | Converted time 6:18:58 to a datetime format.
+04/28, 17:25:52 | Converted time 6:18:58 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 58 and 60.
+04/28, 17:25:52 | Converted time 6:19:35 to a datetime format.
+04/28, 17:25:52 | Converted time 6:19:35 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 35 and 60.
+04/28, 17:25:52 | Converted time 6:20:33 to a datetime format.
+04/28, 17:25:52 | Converted time 6:20:33 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 33 and 60.
+04/28, 17:25:52 | Converted time 6:21:09 to a datetime format.
+04/28, 17:25:52 | Converted time 6:21:09 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 09 and 60.
+04/28, 17:25:52 | Converted time 6:21:56 to a datetime format.
+04/28, 17:25:52 | Converted time 6:21:56 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 56 and 60.
+04/28, 17:25:52 | Converted time 6:22:21 to a datetime format.
+04/28, 17:25:52 | Converted time 6:22:21 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 21 and 60.
+04/28, 17:25:52 | Converted time 6:23:12 to a datetime format.
+04/28, 17:25:52 | Converted time 6:23:12 to a minute format.
+04/28, 17:25:52 | Calculated the quotient between 12 and 60.
+04/28, 17:25:52 | Converted time 6:23:44 to a datetime format.
+04/28, 17:25:53 | Converted time 6:23:44 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 44 and 60.
+04/28, 17:25:53 | Converted time 6:24:23 to a datetime format.
+04/28, 17:25:53 | Converted time 6:24:23 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 23 and 60.
+04/28, 17:25:53 | Converted time 6:25:22 to a datetime format.
+04/28, 17:25:53 | Converted time 6:25:22 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 22 and 60.
+04/28, 17:25:53 | Converted time 6:26:00 to a datetime format.
+04/28, 17:25:53 | Converted time 6:26:00 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 00 and 60.
+04/28, 17:25:53 | Converted time 6:27:13 to a datetime format.
+04/28, 17:25:53 | Converted time 6:27:13 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 13 and 60.
+04/28, 17:25:53 | Converted time 6:27:45 to a datetime format.
+04/28, 17:25:53 | Converted time 6:27:45 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 45 and 60.
+04/28, 17:25:53 | Converted time 6:28:47 to a datetime format.
+04/28, 17:25:53 | Converted time 6:28:47 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 47 and 60.
+04/28, 17:25:53 | Converted time 6:29:40 to a datetime format.
+04/28, 17:25:53 | Converted time 6:29:40 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 40 and 60.
+04/28, 17:25:53 | Converted time 6:31:00 to a datetime format.
+04/28, 17:25:53 | Converted time 6:31:00 to a minute format.
+04/28, 17:25:53 | Calculated the quotient between 00 and 60.
+04/28, 17:25:53 | Calculated the time difference between arrival_time and departure_time.
+04/28, 17:25:53 | Calculated the time difference between 355.0 and 355.0.
+04/28, 17:25:53 | Converted time 355.0 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 356.23333333333335 and 356.23333333333335.
+04/28, 17:25:53 | Converted time 356.23333333333335 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 356.76666666666665 and 356.76666666666665.
+04/28, 17:25:53 | Converted time 356.76666666666665 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 357.21666666666664 and 357.21666666666664.
+04/28, 17:25:53 | Converted time 357.21666666666664 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 358.1 and 358.1.
+04/28, 17:25:53 | Converted time 358.1 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 359.7 and 359.7.
+04/28, 17:25:53 | Converted time 359.7 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 360.23333333333335 and 360.23333333333335.
+04/28, 17:25:53 | Converted time 360.23333333333335 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 362.0 and 362.0.
+04/28, 17:25:53 | Converted time 362.0 to a datetime format.
+04/28, 17:25:53 | 
+04/28, 17:25:53 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:53 | Calculated the time difference between 363.0 and 363.0.
+04/28, 17:25:54 | Converted time 363.0 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 364.15 and 364.15.
+04/28, 17:25:54 | Converted time 364.15 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 366.0 and 366.0.
+04/28, 17:25:54 | Converted time 366.0 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 366.85 and 366.85.
+04/28, 17:25:54 | Converted time 366.85 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 369.48333333333335 and 369.48333333333335.
+04/28, 17:25:54 | Converted time 369.48333333333335 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 370.5 and 370.5.
+04/28, 17:25:54 | Converted time 370.5 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 371.18333333333334 and 371.18333333333334.
+04/28, 17:25:54 | Converted time 371.18333333333334 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 371.93333333333334 and 371.93333333333334.
+04/28, 17:25:54 | Converted time 371.93333333333334 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 373.35 and 373.35.
+04/28, 17:25:54 | Converted time 373.35 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 375.0 and 375.0.
+04/28, 17:25:54 | Converted time 375.0 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 376.46666666666664 and 376.46666666666664.
+04/28, 17:25:54 | Converted time 376.46666666666664 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 378.1166666666667 and 378.1166666666667.
+04/28, 17:25:54 | Converted time 378.1166666666667 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 378.96666666666664 and 378.96666666666664.
+04/28, 17:25:54 | Converted time 378.96666666666664 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 379.5833333333333 and 379.5833333333333.
+04/28, 17:25:54 | Converted time 379.5833333333333 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 380.55 and 380.55.
+04/28, 17:25:54 | Converted time 380.55 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:54 | Calculated the time difference between 381.15 and 381.15.
+04/28, 17:25:54 | Converted time 381.15 to a datetime format.
+04/28, 17:25:54 | 
+04/28, 17:25:54 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 381.93333333333334 and 381.93333333333334.
+04/28, 17:25:55 | Converted time 381.93333333333334 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 382.35 and 382.35.
+04/28, 17:25:55 | Converted time 382.35 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 383.2 and 383.2.
+04/28, 17:25:55 | Converted time 383.2 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 383.73333333333335 and 383.73333333333335.
+04/28, 17:25:55 | Converted time 383.73333333333335 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 384.3833333333333 and 384.3833333333333.
+04/28, 17:25:55 | Converted time 384.3833333333333 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 385.3666666666667 and 385.3666666666667.
+04/28, 17:25:55 | Converted time 385.3666666666667 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 386.0 and 386.0.
+04/28, 17:25:55 | Converted time 386.0 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 387.21666666666664 and 387.21666666666664.
+04/28, 17:25:55 | Converted time 387.21666666666664 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 387.75 and 387.75.
+04/28, 17:25:55 | Converted time 387.75 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 388.78333333333336 and 388.78333333333336.
+04/28, 17:25:55 | Converted time 388.78333333333336 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 389.6666666666667 and 389.6666666666667.
+04/28, 17:25:55 | Converted time 389.6666666666667 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the time difference between 391.0 and 391.0.
+04/28, 17:25:55 | Converted time 391.0 to a datetime format.
+04/28, 17:25:55 | 
+04/28, 17:25:55 | Error in calculating time difference: strptime() argument 1 must be str, not float | Error
+04/28, 17:25:55 | Calculated the efficiency by adding an efficiency column.
+04/28, 17:25:55 | Frame exported to newdata.csv, with 36 rows
